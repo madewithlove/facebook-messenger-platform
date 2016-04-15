@@ -14,7 +14,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9"
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
         "fabpot/php-cs-fixer": "2.0.*@dev",
